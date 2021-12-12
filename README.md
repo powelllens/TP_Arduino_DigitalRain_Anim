@@ -2,12 +2,10 @@
 
 # Digital Rain Animation for rpi-rgb-led-matrix by hzeller
 
- A library that represents Digital Rain Animation on color displays that support hzeller rpi-rgb-led-matrix
+<img width="800" src="https://github.com/powelllens/TP_Arduino_DigitalRain_Anim/blob/main/misc/Matrix-Display.JPG">
  
- <a href="https://youtu.be/i6gGK4L4Yv8">
+ A library that represents Digital Rain Animation on color displays that support hzeller rpi-rgb-led-matrix
 <img width="800" src="https://github.com/powelllens/TP_Arduino_DigitalRain_Anim/blob/main/misc/image.jpg">
-</a>
-
  
 # License
 
